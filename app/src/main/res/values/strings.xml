@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ArhitectureTest</string>
+    <string name="title_activity_application">ApplicationActivity</string>
+</resources>
